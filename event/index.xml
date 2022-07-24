@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | </title>
-    <link>https://lianghaocao.com/event/</link>
-      <atom:link href="https://lianghaocao.com/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.lianghaocao.com/event/</link>
+      <atom:link href="http://www.lianghaocao.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jun 2022 10:40:00 -0500</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jun 2022 13:40:00 +0000</lastBuildDate>
     <image>
-      <url>https://lianghaocao.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://www.lianghaocao.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://lianghaocao.com/event/</link>
+      <link>http://www.lianghaocao.com/event/</link>
     </image>
     
     <item>
+      <title>A globally convergent modified Newton method for direct minimization of Ohta--Kawasaki energy</title>
+      <link>http://www.lianghaocao.com/talk/a-globally-convergent-modified-newton-method-for-direct-minimization-of-ohta--kawasaki-energy/</link>
+      <pubDate>Fri, 24 Jun 2022 13:40:00 +0000</pubDate>
+      <guid>http://www.lianghaocao.com/talk/a-globally-convergent-modified-newton-method-for-direct-minimization-of-ohta--kawasaki-energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bayesian model calibration for diblock copolymer self-assembly using power spectrum of microscopy image data</title>
-      <link>https://lianghaocao.com/talk/bayesian-model-calibration-for-diblock-copolymer-self-assembly-using-power-spectrum-of-microscopy-image-data/</link>
-      <pubDate>Thu, 02 Jun 2022 10:40:00 -0500</pubDate>
-      <guid>https://lianghaocao.com/talk/bayesian-model-calibration-for-diblock-copolymer-self-assembly-using-power-spectrum-of-microscopy-image-data/</guid>
+      <link>http://www.lianghaocao.com/talk/bayesian-model-calibration-for-diblock-copolymer-self-assembly-using-power-spectrum-of-microscopy-image-data/</link>
+      <pubDate>Thu, 02 Jun 2022 10:40:00 +0000</pubDate>
+      <guid>http://www.lianghaocao.com/talk/bayesian-model-calibration-for-diblock-copolymer-self-assembly-using-power-spectrum-of-microscopy-image-data/</guid>
       <description></description>
     </item>
     
