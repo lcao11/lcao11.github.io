@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>0 | </title>
+    <title>0 | Lianghao Cao</title>
     <link>http://www.lianghaocao.com/publication-type/0/</link>
       <atom:link href="http://www.lianghaocao.com/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
@@ -17,6 +17,14 @@
       <link>http://www.lianghaocao.com/publication/baptista-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://www.lianghaocao.com/publication/baptista-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal design of chemoepitaxial guideposts for directed self-assembly of block copolymer systems using an inexact-Newton algorithm</title>
+      <link>http://www.lianghaocao.com/publication/luo-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lianghaocao.com/publication/luo-2022/</guid>
       <description></description>
     </item>
     
