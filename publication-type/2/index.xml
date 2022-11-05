@@ -5,7 +5,7 @@
     <link>http://www.lianghaocao.com/publication-type/2/</link>
       <atom:link href="http://www.lianghaocao.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Nov 2022 22:15:32 +0000</lastBuildDate>
     <image>
       <url>http://www.lianghaocao.com/media/icon_hub77875c1d38778b92741491389f736ee_51397_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>A Globally Convergent Modified Newton Method for the Direct Minimization of the Ohta--Kawasaki Energy with Application to the Directed Self-Assembly of Diblock Copolymers</title>
-      <link>http://www.lianghaocao.com/publication/cao-2022-globally/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://www.lianghaocao.com/publication/cao-2022-globally/</guid>
+      <title>Bayesian-based predictions of COVID-19 evolution in Texas using multispecies mixture-theoretic continuum models</title>
+      <link>http://www.lianghaocao.com/publication/jha-2020-bayesian/</link>
+      <pubDate>Sat, 05 Nov 2022 22:15:32 +0000</pubDate>
+      <guid>http://www.lianghaocao.com/publication/jha-2020-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bayesian-based predictions of COVID-19 evolution in Texas using multispecies mixture-theoretic continuum models</title>
-      <link>http://www.lianghaocao.com/publication/jha-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.lianghaocao.com/publication/jha-2020/</guid>
+      <title>A Globally Convergent Modified Newton Method for the Direct Minimization of the Ohta--Kawasaki Energy with Application to the Directed Self-Assembly of Diblock Copolymers</title>
+      <link>http://www.lianghaocao.com/publication/cao-2022-globbally/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lianghaocao.com/publication/cao-2022-globbally/</guid>
       <description></description>
     </item>
     
