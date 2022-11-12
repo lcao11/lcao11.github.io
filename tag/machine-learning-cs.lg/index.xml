@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning (cs.LG) | Lianghao Cao</title>
+    <link>http://www.lianghaocao.com/tag/machine-learning-cs.lg/</link>
+      <atom:link href="http://www.lianghaocao.com/tag/machine-learning-cs.lg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning (cs.LG)</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lianghaocao.com/media/icon_hub77875c1d38778b92741491389f736ee_51397_512x512_fill_lanczos_center_3.png</url>
+      <title>Machine Learning (cs.LG)</title>
+      <link>http://www.lianghaocao.com/tag/machine-learning-cs.lg/</link>
+    </image>
+    
+    <item>
+      <title>Residual-based error correction for neural operator accelerated infinite-dimensional Bayesian inverse problems</title>
+      <link>http://www.lianghaocao.com/publication/cao-2022-residual/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lianghaocao.com/publication/cao-2022-residual/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

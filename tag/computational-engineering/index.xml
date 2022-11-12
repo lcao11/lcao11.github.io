@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Engineering | Lianghao Cao</title>
+    <link>http://www.lianghaocao.com/tag/computational-engineering/</link>
+      <atom:link href="http://www.lianghaocao.com/tag/computational-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational Engineering</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lianghaocao.com/media/icon_hub77875c1d38778b92741491389f736ee_51397_512x512_fill_lanczos_center_3.png</url>
+      <title>Computational Engineering</title>
+      <link>http://www.lianghaocao.com/tag/computational-engineering/</link>
+    </image>
+    
+    <item>
+      <title>Optimal design of chemoepitaxial guideposts for directed self-assembly of block copolymer systems using an inexact-Newton algorithm</title>
+      <link>http://www.lianghaocao.com/publication/luo-2022-optimal/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lianghaocao.com/publication/luo-2022-optimal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
