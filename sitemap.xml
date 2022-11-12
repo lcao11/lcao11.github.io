@@ -4,6 +4,12 @@
   
   
   <url>
+    <loc>http://www.lianghaocao.com/</loc><lastmod>2022-11-06T08:30:00-05:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://www.lianghaocao.com/event/</loc><lastmod>2022-11-06T08:30:00-05:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://www.lianghaocao.com/talk/residual-based-error-correction-for-neural-operator-accelerated-infinite-dimensional-bayesian-inverse-problems/</loc><lastmod>2022-11-06T08:30:00-05:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc></loc><lastmod>2022-11-05T17:15:33-05:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://www.lianghaocao.com/publication-type/2/</loc><lastmod>2022-11-05T17:15:32-05:00</lastmod><changefreq>weekly</changefreq></url>
@@ -14,8 +20,6 @@
   <url>
     <loc></loc><lastmod>2022-11-05T17:15:33-05:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://www.lianghaocao.com/</loc><lastmod>2022-11-05T17:15:33-05:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc></loc><lastmod>2022-11-05T17:15:33-05:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://www.lianghaocao.com/publication_types/</loc><lastmod>2022-11-05T17:15:33-05:00</lastmod><changefreq>weekly</changefreq></url>
@@ -23,8 +27,6 @@
     <loc>http://www.lianghaocao.com/publication/</loc><lastmod>2022-11-05T17:15:33-05:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://www.lianghaocao.com/talk/a-globally-convergent-modified-newton-method-for-direct-minimization-of-ohta--kawasaki-energy/</loc><lastmod>2022-06-24T13:40:00-05:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://www.lianghaocao.com/event/</loc><lastmod>2022-06-24T13:40:00-05:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://www.lianghaocao.com/talk/bayesian-model-calibration-for-diblock-copolymer-self-assembly-using-power-spectrum-of-microscopy-image-data/</loc><lastmod>2022-06-02T10:20:00-05:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -86,6 +88,4 @@
   <url>
     <loc>http://www.lianghaocao.com/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://www.lianghaocao.com/talk/residual-based-error-correction-for-neural-operator-accelerated-infinite-dimensional-bayesian-inverse-problems/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc></loc><changefreq>weekly</changefreq></url></urlset>

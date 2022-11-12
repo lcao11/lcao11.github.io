@@ -5,12 +5,20 @@
     <link>http://www.lianghaocao.com/event/</link>
       <atom:link href="http://www.lianghaocao.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jun 2022 13:40:00 -0500</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Nov 2022 08:30:00 -0500</lastBuildDate>
     <image>
       <url>http://www.lianghaocao.com/media/icon_hub77875c1d38778b92741491389f736ee_51397_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>http://www.lianghaocao.com/event/</link>
     </image>
+    
+    <item>
+      <title>Residual-based error correction for neural operator accelerated infinite-dimensional Bayesian inverse problems</title>
+      <link>http://www.lianghaocao.com/talk/residual-based-error-correction-for-neural-operator-accelerated-infinite-dimensional-bayesian-inverse-problems/</link>
+      <pubDate>Sun, 06 Nov 2022 08:30:00 -0500</pubDate>
+      <guid>http://www.lianghaocao.com/talk/residual-based-error-correction-for-neural-operator-accelerated-infinite-dimensional-bayesian-inverse-problems/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A globally convergent modified Newton method for direct minimization of Ohta--Kawasaki energy</title>
@@ -25,14 +33,6 @@
       <link>http://www.lianghaocao.com/talk/bayesian-model-calibration-for-diblock-copolymer-self-assembly-using-power-spectrum-of-microscopy-image-data/</link>
       <pubDate>Thu, 02 Jun 2022 10:20:00 -0500</pubDate>
       <guid>http://www.lianghaocao.com/talk/bayesian-model-calibration-for-diblock-copolymer-self-assembly-using-power-spectrum-of-microscopy-image-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Residual-based error correction for neural operator accelerated infinite-dimensional Bayesian inverse problems</title>
-      <link>http://www.lianghaocao.com/talk/residual-based-error-correction-for-neural-operator-accelerated-infinite-dimensional-bayesian-inverse-problems/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.lianghaocao.com/talk/residual-based-error-correction-for-neural-operator-accelerated-infinite-dimensional-bayesian-inverse-problems/</guid>
       <description></description>
     </item>
     
